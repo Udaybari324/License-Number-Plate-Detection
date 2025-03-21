@@ -29,7 +29,7 @@
 
 | Input Image  | Processed Image | Extracted Text |
 |-------------|---------------|----------------|
-| ![Input](https://via.placeholder.com/150) | ![Processed](https://via.placeholder.com/150) | **MH12AB1234** |
+| ![Input](Images/Input/np2.jfif) | ![Processed](https://via.placeholder.com/150) | **MH12AB1234** |
 
 ---
 
