@@ -29,7 +29,7 @@
 
 | Input Image  | Processed Image | Extracted Text |
 |-------------|---------------|----------------|
-| ![Input](Images/Input/np2.jfif) | ![Processed](Images/Input/output6.PNG) | **MH20EE7602** |
+| ![Input](Images/Input/input.jpg) | ![Processed](Images/Input/output6.PNG) | **MH20EE7602** |
 
 ---
 
