@@ -29,7 +29,7 @@
 
 | Input Image  | Processed Image | Extracted Text |
 |-------------|---------------|----------------|
-| ![Input](Images/Input/input.jpg) | ![Processed](Images/Input/output6.PNG) | **MH20EE7602** |
+| ![Input](Images/Input/input.jpg) | ![Processed](Images/Input/output.PNG) | **MH20EE7602** |
 
 ---
 
@@ -78,5 +78,5 @@ python detect_plate.py
 
 ---
 
-👨‍💻 **Developed by [Your Name](https://github.com/Udaybari324) 🚀**  
+👨‍💻 **Developed by [Uday Bari](https://github.com/Udaybari324) 🚀**  
 ⭐ _If you like this project, consider giving it a star!_ 🌟
